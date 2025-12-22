@@ -1,5 +1,13 @@
 # 📈 Stock Price Prediction using Time Series Analysis
 
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Time Series](https://img.shields.io/badge/Time%20Series-Forecasting-orange)
+![ARIMA](https://img.shields.io/badge/ARIMA-Model-green)
+![Finance](https://img.shields.io/badge/Domain-Finance-success)
+
+
+
 ## 📌 Project Overview
 This project focuses on **time series forecasting** using historical stock market data.  
 The objective is to **predict the Volume Weighted Average Price (VWAP)** of a stock based on past price-related features.
